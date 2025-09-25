@@ -41,7 +41,7 @@
     "friendsofphp/proxy-manager-lts": "v1.0.12",
     "justinrainbow/json-schema": "5.2.12",
     "monolog/monolog": "^v2.10",
-    "o3-shop/shop-ce": "dev-test as 1.5.0",
+    "o3-shop/shop-ce": "dev-test as v1.5.0",
     "o3-shop/o3-theme": "v1.0.2",
     "o3-shop/flow-theme": "v1.1.0",
     "o3-shop/gdpr-optin-module": "v1.0.1",
