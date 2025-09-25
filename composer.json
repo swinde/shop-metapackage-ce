@@ -22,7 +22,7 @@
       "role": "Developer"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
     "composer/ca-bundle": "1.3.2",
