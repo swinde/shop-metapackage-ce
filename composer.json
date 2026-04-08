@@ -68,7 +68,7 @@
     "symfony/dependency-injection": "^5.4",
     "symfony/event-dispatcher": "^5.4",
     "symfony/expression-language": "^5.4",
-    "symfony/filesystem": "v4.4.42",
+    "symfony/filesystem": "^5.4",
     "symfony/finder": "^5.4",
     "symfony/lock": "^5.4",
     "symfony/polyfill-ctype": "v1.26.0",
