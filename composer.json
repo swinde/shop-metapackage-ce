@@ -81,7 +81,7 @@
     "symfony/service-contracts": "v2.2.0",
     "symfony/stopwatch": "v5.4.5",
     "symfony/var-exporter": "v5.4.10",
-    "symfony/yaml": "v3.4.47",
+    "symfony/yaml": "^5.4",
     "webmozart/assert": "1.11.0",
     "webmozart/glob": "4.6.0",
     "webmozart/path-util": "2.3.0"
