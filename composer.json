@@ -70,7 +70,7 @@
     "symfony/expression-language": "v4.4.43",
     "symfony/filesystem": "v4.4.42",
     "symfony/finder": "v3.4.47",
-    "symfony/lock": "v3.4.47",
+    "symfony/lock": "^5.4",
     "symfony/polyfill-ctype": "v1.26.0",
     "symfony/polyfill-mbstring": "v1.26.0",
     "symfony/polyfill-php70": "v1.20.0",
