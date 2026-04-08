@@ -66,7 +66,7 @@
     "symfony/config": "v4.4.42",
     "symfony/debug": "v4.4.41",
     "symfony/dependency-injection": "v3.4.47",
-    "symfony/event-dispatcher": "v3.4.47",
+    "symfony/event-dispatcher": "^5.4",
     "symfony/expression-language": "^5.4",
     "symfony/filesystem": "v4.4.42",
     "symfony/finder": "^5.4",
