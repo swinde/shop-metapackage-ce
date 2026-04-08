@@ -35,7 +35,7 @@
     "composer/xdebug-handler": "3.0.3",
     "doctrine/cache": "1.13.0",
     "doctrine/collections": "1.6.8",
-    "doctrine/dbal": "2.12.1",
+    "doctrine/dbal": "^3.9",
     "doctrine/event-manager": "1.1.1",
     "doctrine/migrations": "2.3.5",
     "friendsofphp/proxy-manager-lts": "v1.0.12",
