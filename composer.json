@@ -26,7 +26,7 @@
   "prefer-stable": true,
   "require": {
     "composer/ca-bundle": "1.3.2",
-    "composer/composer": "2.2.23",
+    "composer/composer": "^2.2",
     "composer/metadata-minifier": "1.0.0",
     "composer/package-versions-deprecated": "1.11.99.5",
     "composer/pcre": "1.0.1",
